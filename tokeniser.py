@@ -4,27 +4,34 @@ import tiktoken
 
 #TODO: Write my own byte-pair encoder
 class Tokeniser:
+    '''
+    A class to tokenise and detokenise text.
+    '''
     def __init__(self):
         self.tokeniser = tiktoken.get_encoding('gpt2')
 
     def encode(self, text: str) -> List[int]:
-        assert isinstance(text, str), 'Text must be a string'
+        '''
+        Receives a text and returns a list of tokens.
+        Args:
+            text (str): The text to be tokenised.
+        Returns:
+            List[int]: A list of integers representing the tokens.
+        '''
+        if not isinstance(text, str):
+            raise TypeError('Text must be a string')
         encoded_text = self.tokeniser.encode(text, allowed_special={'<|endoftext|>'})
         return encoded_text
     
     def decode(self, tokens: List[int]) -> str:
-        assert isinstance(tokens, list) and all(isinstance(token, int) for token in tokens), 'Tokens must be integers'
+        '''
+        Receives a list of tokens and returns the decoded text.
+        Args:
+            tokens (List[int]): A list of integers representing the tokens.
+        Returns:
+            str: The decoded text.
+        '''
+        if not isinstance(tokens, list) or not all(isinstance(token, int) for token in tokens):
+            raise TypeError('Tokens must be integers')
         decoded_text = self.tokeniser.decode(tokens)
         return decoded_text
-        
-
-if __name__ == '__main__':
-    file_path = "the-verdict.txt"
-    with open(file_path, "r", encoding='utf-8') as f:
-        text = f.read()
-
-    tokeniser = Tokeniser()
-    encoded_text = tokeniser.encode(text)
-    print(encoded_text[:50])
-    decoded_text = tokeniser.decode(encoded_text)
-    print(decoded_text[:50])
