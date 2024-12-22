@@ -2,6 +2,9 @@ import torch
 import torch.nn as nn
 
 class MultiHeadAttention(nn.Module):
+    '''
+    Implementation of the multi-head attention mechanism.
+    '''
     def __init__(self, 
                  input_dimension: int, 
                  output_dimension: int, 
