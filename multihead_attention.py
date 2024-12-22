@@ -35,8 +35,10 @@ class MultiHeadAttention(nn.Module):
         self.register_buffer('mask', torch.triu(torch.ones(context_length, context_length), diagonal=1))
     
     def forward(self, input_sequences: torch.Tensor) -> torch.Tensor:
-        assert isinstance(input_sequences, torch.Tensor), 'Input sequence must be a PyTorch tensor'
-        assert input_sequences.dim() == 3, 'Input sequence must have 3 dimensions'
+        if not isinstance(input_sequences, torch.Tensor):
+            raise TypeError("Input sequence must be a PyTorch tensor")
+        if input_sequences.dim() != 3:
+            raise ValueError("Input sequence must have 3 dimensions")
 
         query, key, value = self._format_attention_input(input_sequences)
         attention_scores = self._compute_attention_scores(query, key)
