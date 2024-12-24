@@ -43,15 +43,3 @@ class LayerNormalisation(nn.Module):
         std = input_sequences.std(dim=-1, keepdim=True)
         normalised_input = (input_sequences - mean) / (std + self.epsilon)
         return self.scale * normalised_input + self.bias
-
-if __name__ == '__main__':
-    torch.manual_seed(123)
-    batch = torch.randn(4, 10)
-    layer_norm = LayerNormalisation(10)
-    inputs = torch.stack([batch, batch])
-    out_ln = layer_norm(batch)
-    print(out_ln)
-    mean = out_ln.mean(dim=-1, keepdim=True)
-    std = out_ln.var(dim=-1, keepdim=True)
-    print('Mean:', mean)
-    print('Variance:', std)    
