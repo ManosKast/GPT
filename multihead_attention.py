@@ -111,7 +111,6 @@ class MultiHeadAttention(nn.Module):
 
     def _revert_to_original_shape(self, context_vector: torch.Tensor) -> torch.Tensor:
         # The context vector is reshaped to have the same shape as the input sequence, so that it can be passed to the next layer.
-        print(context_vector.shape)
         batch_size, _, tokens_count, _ = context_vector.shape
 
         # In _format_attention_input, we transposed the query, key, and value to have the shape (batch_size, heads_count, tokens_count, head_dimension),
