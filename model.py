@@ -27,6 +27,7 @@ class GPTModel(nn.Module):
         assert isinstance(bias_flag, bool), 'Bias flag must be a boolean'
 
         super().__init__()
+        device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
         self.token_embeddings = nn.Embedding(vocabulary_size, embedding_dimension)
         self.positional_embeddings = nn.Embedding(context_length, embedding_dimension)
         self.dropout = nn.Dropout(dropout_rate[0] if isinstance(dropout_rate, tuple) else dropout_rate)
@@ -37,9 +38,9 @@ class GPTModel(nn.Module):
                                                               heads_count=heads_count, 
                                                               dropout_rate=dropout_rate if isinstance(dropout_rate, float) else dropout_rate[1:],
                                                               bias_flag=bias_flag) for _ in range(transformer_layers)]
-                                                )
+                                                ).to(device)
         
-        self.layer_normalisation = LayerNormalisation(embedding_dimension)
+        self.layer_normalisation = LayerNormalisation(embedding_dimension).to(device)
         self.output = nn.Linear(embedding_dimension, vocabulary_size, bias=False)
 
     def forward(self, decoded_sequence: torch.Tensor) -> torch.Tensor:

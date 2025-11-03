@@ -24,7 +24,7 @@ class MultiHeadAttention(nn.Module):
         self.input_dimension = input_dimension
         self.output_dimension = output_dimension
         self.heads_count = heads_count
-        self.head_dimension = input_dimension // heads_count
+        self.head_dimension = output_dimension // heads_count
 
         self.dropout = nn.Dropout(dropout_rate)
 
@@ -89,7 +89,6 @@ class MultiHeadAttention(nn.Module):
         # The key is transposed so that the dot product can be computed between the query and key and the result is regularised by the square root
         # of the embedding dimension, so that vanishing gradient is mitigated.
         attention_scores = query.matmul(key.transpose(-1, -2)) / (self.head_dimension ** 0.5)
-        attention_scores.to(torch.float64) # Ensure that the attention scores are in float64 --not ideal
         return attention_scores
     
     def _implement_causal_masking(self, attention_scores: torch.Tensor, input_sequences: torch.Tensor) -> torch.Tensor:

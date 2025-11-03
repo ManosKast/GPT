@@ -1,6 +1,6 @@
 import torch
 from torch.utils.data import Dataset, DataLoader
-from typing import List
+from typing import List, Tuple
 from tokeniser import Tokeniser
 
 class GPTDataset(Dataset):
@@ -22,10 +22,10 @@ class GPTDataset(Dataset):
             self.inputs.append(input_sequence)
             self.targets.append(target_sequence)
 
-    def __len__(self):
+    def __len__(self) -> int:
         return len(self.inputs)
     
-    def __getitem__(self, idx):
+    def __getitem__(self, idx) -> Tuple[torch.tensor, torch.tensor]:
         return self.inputs[idx], self.targets[idx]
     
 
@@ -33,7 +33,8 @@ def generate_dataloader(text,
                         batch_size: int = 8, 
                         max_length: int = 1024, 
                         stride: int = 512, 
-                        workers_count: int = 0):
+                        workers_count: int = 0,
+                        device: torch.device | None = None) -> DataLoader:
     '''
     Receives a text, breaks it into words and generates an encoded dataloader.
     Args:
@@ -59,4 +60,5 @@ def generate_dataloader(text,
     encodings = tokeniser.encode(text)
     dataset = GPTDataset(encodings, max_length, stride)
     dataloader = DataLoader(dataset, batch_size=batch_size, shuffle=False, drop_last=True, num_workers=workers_count)
+
     return dataloader

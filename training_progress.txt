@@ -1,0 +1,1044 @@
+Step,Train Loss,Validation Loss,Tokens Seen
+6.170195601633843,6.170195601633843,40
+Step,Train Loss,Validation Loss,Tokens Seen
+5.8962739098151,5.8962739098151,0
+Step,Train Loss,Validation Loss,Tokens Seen
+6.170195601633843,6.170195601633843,40
+Step,Train Loss,Validation Loss,Tokens Seen
+6.011351629598251,6.011351629598251,80
+Step,Train Loss,Validation Loss,Tokens Seen
+5.958987087603436,5.958987087603436,120
+Step,Train Loss,Validation Loss,Tokens Seen
+5.886593483931182,5.886593483931182,160
+Step,Train Loss,Validation Loss,Tokens Seen
+5.828780180571095,5.828780180571095,200
+Step,Train Loss,Validation Loss,Tokens Seen
+5.8014211780977565,5.8014211780977565,240
+Step,Train Loss,Validation Loss,Tokens Seen
+5.797763530781727,5.797763530781727,280
+Step,Train Loss,Validation Loss,Tokens Seen
+5.809973887260386,5.809973887260386,320
+Step,Train Loss,Validation Loss,Tokens Seen
+5.761345260190648,5.761345260190648,360
+Step,Train Loss,Validation Loss,Tokens Seen
+5.725880907071347,5.725880907071347,400
+Step,Train Loss,Validation Loss,Tokens Seen
+5.832377326409548,5.832377326409548,440
+Step,Train Loss,Validation Loss,Tokens Seen
+5.731901683554744,5.731901683554744,480
+Step,Train Loss,Validation Loss,Tokens Seen
+5.650000518520936,5.650000518520936,520
+Step,Train Loss,Validation Loss,Tokens Seen
+5.673208312483023,5.673208312483023,560
+Step,Train Loss,Validation Loss,Tokens Seen
+5.657857755951534,5.657857755951534,600
+Step,Train Loss,Validation Loss,Tokens Seen
+5.645743038480645,5.645743038480645,640
+Step,Train Loss,Validation Loss,Tokens Seen
+5.680683113881294,5.680683113881294,680
+Step,Train Loss,Validation Loss,Tokens Seen
+5.7281359899912445,5.7281359899912445,720
+Step,Train Loss,Validation Loss,Tokens Seen
+5.666687466450874,5.666687466450874,760
+Step,Train Loss,Validation Loss,Tokens Seen
+5.60191136164381,5.60191136164381,800
+Step,Train Loss,Validation Loss,Tokens Seen
+5.581562086446396,5.581562086446396,840
+Step,Train Loss,Validation Loss,Tokens Seen
+5.574097165998245,5.574097165998245,880
+Step,Train Loss,Validation Loss,Tokens Seen
+5.568437112088235,5.568437112088235,920
+Step,Train Loss,Validation Loss,Tokens Seen
+5.518531906683713,5.518531906683713,960
+Step,Train Loss,Validation Loss,Tokens Seen
+5.538224981320615,5.538224981320615,1000
+Step,Train Loss,Validation Loss,Tokens Seen
+5.621721457171914,5.621721457171914,1040
+Step,Train Loss,Validation Loss,Tokens Seen
+5.48501253443838,5.48501253443838,1080
+Step,Train Loss,Validation Loss,Tokens Seen
+5.474740644164433,5.474740644164433,1120
+Step,Train Loss,Validation Loss,Tokens Seen
+5.473720512642766,5.473720512642766,1160
+Step,Train Loss,Validation Loss,Tokens Seen
+5.463897354555446,5.463897354555446,1200
+Step,Train Loss,Validation Loss,Tokens Seen
+5.516472191210614,5.516472191210614,1240
+Step,Train Loss,Validation Loss,Tokens Seen
+5.558929007574423,5.558929007574423,1280
+Step,Train Loss,Validation Loss,Tokens Seen
+5.569260107760398,5.569260107760398,1320
+Step,Train Loss,Validation Loss,Tokens Seen
+5.514387800204044,5.514387800204044,1360
+Step,Train Loss,Validation Loss,Tokens Seen
+5.4067292371333044,5.4067292371333044,1400
+Step,Train Loss,Validation Loss,Tokens Seen
+5.425854695553811,5.425854695553811,1440
+Step,Train Loss,Validation Loss,Tokens Seen
+5.395423993369602,5.395423993369602,1480
+Step,Train Loss,Validation Loss,Tokens Seen
+5.397418246363962,5.397418246363962,1520
+Step,Train Loss,Validation Loss,Tokens Seen
+5.3298367664513995,5.3298367664513995,1560
+Step,Train Loss,Validation Loss,Tokens Seen
+5.35742278762211,5.35742278762211,1600
+Step,Train Loss,Validation Loss,Tokens Seen
+5.4739534744363745,5.4739534744363745,1640
+Step,Train Loss,Validation Loss,Tokens Seen
+5.354846174353796,5.354846174353796,1680
+Step,Train Loss,Validation Loss,Tokens Seen
+5.382842079693119,5.382842079693119,1720
+Step,Train Loss,Validation Loss,Tokens Seen
+5.332499134619504,5.332499134619504,1760
+Step,Train Loss,Validation Loss,Tokens Seen
+5.30259481013216,5.30259481013216,1800
+Step,Train Loss,Validation Loss,Tokens Seen
+5.394665490712551,5.394665490712551,1840
+Step,Train Loss,Validation Loss,Tokens Seen
+5.414525000464837,5.414525000464837,1880
+Step,Train Loss,Validation Loss,Tokens Seen
+5.461082426917474,5.461082426917474,1920
+Step,Train Loss,Validation Loss,Tokens Seen
+5.304530058475519,5.304530058475519,1960
+Step,Train Loss,Validation Loss,Tokens Seen
+5.292993409744161,5.292993409744161,2000
+Step,Train Loss,Validation Loss,Tokens Seen
+5.246659234659561,5.246659234659561,2040
+Step,Train Loss,Validation Loss,Tokens Seen
+5.2410720010466925,5.2410720010466925,2080
+Step,Train Loss,Validation Loss,Tokens Seen
+5.233150510598493,5.233150510598493,2120
+Step,Train Loss,Validation Loss,Tokens Seen
+5.186002319222254,5.186002319222254,2160
+Step,Train Loss,Validation Loss,Tokens Seen
+5.2471570937049306,5.2471570937049306,2200
+Step,Train Loss,Validation Loss,Tokens Seen
+5.3313079322410735,5.3313079322410735,2240
+Step,Train Loss,Validation Loss,Tokens Seen
+5.275013434176413,5.275013434176413,2280
+Step,Train Loss,Validation Loss,Tokens Seen
+5.208769389335683,5.208769389335683,2320
+Step,Train Loss,Validation Loss,Tokens Seen
+5.138736833799753,5.138736833799753,2360
+Step,Train Loss,Validation Loss,Tokens Seen
+5.152206359320129,5.152206359320129,2400
+Step,Train Loss,Validation Loss,Tokens Seen
+5.319024237426552,5.319024237426552,0
+Step,Train Loss,Validation Loss,Tokens Seen
+5.457902147963241,5.457902147963241,40
+Step,Train Loss,Validation Loss,Tokens Seen
+5.4817778387585205,5.4817778387585205,80
+Step,Train Loss,Validation Loss,Tokens Seen
+5.48478369777267,5.48478369777267,120
+Step,Train Loss,Validation Loss,Tokens Seen
+5.342665978380151,5.342665978380151,160
+Step,Train Loss,Validation Loss,Tokens Seen
+5.27196537481772,5.27196537481772,200
+Step,Train Loss,Validation Loss,Tokens Seen
+5.252518927728808,5.252518927728808,240
+Step,Train Loss,Validation Loss,Tokens Seen
+5.233888832298485,5.233888832298485,280
+Step,Train Loss,Validation Loss,Tokens Seen
+5.225493228113329,5.225493228113329,320
+Step,Train Loss,Validation Loss,Tokens Seen
+5.196791307346241,5.196791307346241,360
+Step,Train Loss,Validation Loss,Tokens Seen
+5.302171188431817,5.302171188431817,400
+Step,Train Loss,Validation Loss,Tokens Seen
+5.352186186893566,5.352186186893566,440
+Step,Train Loss,Validation Loss,Tokens Seen
+5.293571881345801,5.293571881345801,480
+Step,Train Loss,Validation Loss,Tokens Seen
+5.210113886240366,5.210113886240366,520
+Step,Train Loss,Validation Loss,Tokens Seen
+5.132133319571212,5.132133319571212,560
+Step,Train Loss,Validation Loss,Tokens Seen
+5.138176644170606,5.138176644170606,600
+Step,Train Loss,Validation Loss,Tokens Seen
+5.2546659063648535,5.2546659063648535,640
+Step,Train Loss,Validation Loss,Tokens Seen
+5.304346503438176,5.304346503438176,680
+Step,Train Loss,Validation Loss,Tokens Seen
+5.235058629834974,5.235058629834974,720
+Step,Train Loss,Validation Loss,Tokens Seen
+5.139439470059163,5.139439470059163,760
+Step,Train Loss,Validation Loss,Tokens Seen
+5.0825109191842985,5.0825109191842985,800
+Step,Train Loss,Validation Loss,Tokens Seen
+4.987550294077074,4.987550294077074,840
+Step,Train Loss,Validation Loss,Tokens Seen
+4.985510532920425,4.985510532920425,880
+Step,Train Loss,Validation Loss,Tokens Seen
+4.949885444061176,4.949885444061176,920
+Step,Train Loss,Validation Loss,Tokens Seen
+4.913305926967311,4.913305926967311,960
+Step,Train Loss,Validation Loss,Tokens Seen
+5.084976599023149,5.084976599023149,1000
+Step,Train Loss,Validation Loss,Tokens Seen
+5.018095003592001,5.018095003592001,1040
+Step,Train Loss,Validation Loss,Tokens Seen
+4.988728719788629,4.988728719788629,1080
+Step,Train Loss,Validation Loss,Tokens Seen
+4.919766682225305,4.919766682225305,1120
+Step,Train Loss,Validation Loss,Tokens Seen
+4.915796395894644,4.915796395894644,1160
+Step,Train Loss,Validation Loss,Tokens Seen
+4.965193961117719,4.965193961117719,1200
+Step,Train Loss,Validation Loss,Tokens Seen
+5.2338239856668425,5.2338239856668425,0
+Step,Train Loss,Validation Loss,Tokens Seen
+5.4060047131937905,5.4060047131937905,20
+Step,Train Loss,Validation Loss,Tokens Seen
+5.407639096717577,5.407639096717577,40
+Step,Train Loss,Validation Loss,Tokens Seen
+5.41731633447312,5.41731633447312,60
+Step,Train Loss,Validation Loss,Tokens Seen
+5.411705700126854,5.411705700126854,80
+Step,Train Loss,Validation Loss,Tokens Seen
+5.356576159193709,5.356576159193709,100
+Step,Train Loss,Validation Loss,Tokens Seen
+5.304298118159577,5.304298118159577,120
+Step,Train Loss,Validation Loss,Tokens Seen
+5.1796425291009855,5.1796425291009855,140
+Step,Train Loss,Validation Loss,Tokens Seen
+5.214090244995581,5.214090244995581,160
+Step,Train Loss,Validation Loss,Tokens Seen
+5.2022028839265975,5.2022028839265975,180
+Step,Train Loss,Validation Loss,Tokens Seen
+5.138678675567782,5.138678675567782,200
+Step,Train Loss,Validation Loss,Tokens Seen
+5.197135119824796,5.197135119824796,220
+Step,Train Loss,Validation Loss,Tokens Seen
+5.144900367066667,5.144900367066667,240
+Step,Train Loss,Validation Loss,Tokens Seen
+5.140942504277101,5.140942504277101,260
+Step,Train Loss,Validation Loss,Tokens Seen
+5.126905777164407,5.126905777164407,280
+Step,Train Loss,Validation Loss,Tokens Seen
+5.175707811439359,5.175707811439359,300
+Step,Train Loss,Validation Loss,Tokens Seen
+5.096069870768367,5.096069870768367,320
+Step,Train Loss,Validation Loss,Tokens Seen
+5.095304555989601,5.095304555989601,340
+Step,Train Loss,Validation Loss,Tokens Seen
+5.097627994176504,5.097627994176504,360
+Step,Train Loss,Validation Loss,Tokens Seen
+5.143079005383156,5.143079005383156,380
+Step,Train Loss,Validation Loss,Tokens Seen
+5.183969483182237,5.183969483182237,400
+Step,Train Loss,Validation Loss,Tokens Seen
+5.138521880716891,5.138521880716891,420
+Step,Train Loss,Validation Loss,Tokens Seen
+5.230997367485149,5.230997367485149,440
+Step,Train Loss,Validation Loss,Tokens Seen
+5.098211960212605,5.098211960212605,460
+Step,Train Loss,Validation Loss,Tokens Seen
+5.129716433383323,5.129716433383323,480
+Step,Train Loss,Validation Loss,Tokens Seen
+5.0510721939641074,5.0510721939641074,500
+Step,Train Loss,Validation Loss,Tokens Seen
+5.061535114372099,5.061535114372099,520
+Step,Train Loss,Validation Loss,Tokens Seen
+5.025409592969997,5.025409592969997,540
+Step,Train Loss,Validation Loss,Tokens Seen
+5.023256195558084,5.023256195558084,560
+Step,Train Loss,Validation Loss,Tokens Seen
+5.033843179006834,5.033843179006834,580
+Step,Train Loss,Validation Loss,Tokens Seen
+5.157517558014071,5.157517558014071,600
+Step,Train Loss,Validation Loss,Tokens Seen
+5.16746642541241,5.16746642541241,620
+Step,Train Loss,Validation Loss,Tokens Seen
+5.217547706655554,5.217547706655554,640
+Step,Train Loss,Validation Loss,Tokens Seen
+5.192140841806257,5.192140841806257,660
+Step,Train Loss,Validation Loss,Tokens Seen
+5.160228452166995,5.160228452166995,680
+Step,Train Loss,Validation Loss,Tokens Seen
+5.049695599723506,5.049695599723506,700
+Step,Train Loss,Validation Loss,Tokens Seen
+4.937685893999563,4.937685893999563,720
+Step,Train Loss,Validation Loss,Tokens Seen
+4.891804427713962,4.891804427713962,740
+Step,Train Loss,Validation Loss,Tokens Seen
+4.915755120483604,4.915755120483604,760
+Step,Train Loss,Validation Loss,Tokens Seen
+4.9249317815174924,4.9249317815174924,780
+Step,Train Loss,Validation Loss,Tokens Seen
+4.817966204237294,4.817966204237294,800
+Step,Train Loss,Validation Loss,Tokens Seen
+4.7804111298677086,4.7804111298677086,820
+Step,Train Loss,Validation Loss,Tokens Seen
+4.819418684856312,4.819418684856312,840
+Step,Train Loss,Validation Loss,Tokens Seen
+4.7932213536790895,4.7932213536790895,860
+Step,Train Loss,Validation Loss,Tokens Seen
+4.7290316095223295,4.7290316095223295,880
+Step,Train Loss,Validation Loss,Tokens Seen
+4.749596116510597,4.749596116510597,900
+Step,Train Loss,Validation Loss,Tokens Seen
+4.687107192503439,4.687107192503439,920
+Step,Train Loss,Validation Loss,Tokens Seen
+4.731503965886864,4.731503965886864,940
+Step,Train Loss,Validation Loss,Tokens Seen
+4.7211442613923875,4.7211442613923875,960
+Step,Train Loss,Validation Loss,Tokens Seen
+4.855312765450091,4.855312765450091,980
+Step,Train Loss,Validation Loss,Tokens Seen
+4.8835565463916675,4.8835565463916675,1000
+Step,Train Loss,Validation Loss,Tokens Seen
+4.8817447077583624,4.8817447077583624,1020
+Step,Train Loss,Validation Loss,Tokens Seen
+4.8432271190591765,4.8432271190591765,1040
+Step,Train Loss,Validation Loss,Tokens Seen
+4.767912552968876,4.767912552968876,1060
+Step,Train Loss,Validation Loss,Tokens Seen
+4.6989396770258205,4.6989396770258205,1080
+Step,Train Loss,Validation Loss,Tokens Seen
+4.75530681900076,4.75530681900076,1100
+Step,Train Loss,Validation Loss,Tokens Seen
+4.669607402505101,4.669607402505101,1120
+Step,Train Loss,Validation Loss,Tokens Seen
+4.6710845433376935,4.6710845433376935,1140
+Step,Train Loss,Validation Loss,Tokens Seen
+4.648748768342508,4.648748768342508,1160
+Step,Train Loss,Validation Loss,Tokens Seen
+4.6729020854911285,4.6729020854911285,1180
+Step,Train Loss,Validation Loss,Tokens Seen
+4.760037877269693,4.760037877269693,1200
+Step,Train Loss,Validation Loss,Tokens Seen
+4.657839484311439,4.657839484311439,1220
+Step,Train Loss,Validation Loss,Tokens Seen
+4.697317441573015,4.697317441573015,1240
+Step,Train Loss,Validation Loss,Tokens Seen
+4.775822381715517,4.775822381715517,1260
+Step,Train Loss,Validation Loss,Tokens Seen
+4.679842362532744,4.679842362532744,1280
+Step,Train Loss,Validation Loss,Tokens Seen
+4.750101831313726,4.750101831313726,1300
+Step,Train Loss,Validation Loss,Tokens Seen
+4.463864515762071,4.463864515762071,1320
+Step,Train Loss,Validation Loss,Tokens Seen
+4.454319756578755,4.454319756578755,1340
+Step,Train Loss,Validation Loss,Tokens Seen
+4.4052459468712675,4.4052459468712675,1360
+Step,Train Loss,Validation Loss,Tokens Seen
+4.492899237452327,4.492899237452327,1380
+Step,Train Loss,Validation Loss,Tokens Seen
+4.543625155010739,4.543625155010739,1400
+Step,Train Loss,Validation Loss,Tokens Seen
+4.387146348083341,4.387146348083341,1420
+Step,Train Loss,Validation Loss,Tokens Seen
+4.412053811389047,4.412053811389047,1440
+Step,Train Loss,Validation Loss,Tokens Seen
+4.417361303761199,4.417361303761199,1460
+Step,Train Loss,Validation Loss,Tokens Seen
+4.279530329478754,4.279530329478754,1480
+Step,Train Loss,Validation Loss,Tokens Seen
+4.249812338803266,4.249812338803266,1500
+Step,Train Loss,Validation Loss,Tokens Seen
+4.350157662017925,4.350157662017925,1520
+Step,Train Loss,Validation Loss,Tokens Seen
+4.274769794296574,4.274769794296574,1540
+Step,Train Loss,Validation Loss,Tokens Seen
+4.360228432191385,4.360228432191385,1560
+Step,Train Loss,Validation Loss,Tokens Seen
+4.418558799737209,4.418558799737209,1580
+Step,Train Loss,Validation Loss,Tokens Seen
+4.4560069602888985,4.4560069602888985,1600
+Step,Train Loss,Validation Loss,Tokens Seen
+4.415468345622759,4.415468345622759,1620
+Step,Train Loss,Validation Loss,Tokens Seen
+4.497253479184331,4.497253479184331,1640
+Step,Train Loss,Validation Loss,Tokens Seen
+4.345884322314649,4.345884322314649,1660
+Step,Train Loss,Validation Loss,Tokens Seen
+4.23351993029182,4.23351993029182,1680
+Step,Train Loss,Validation Loss,Tokens Seen
+4.377838412652144,4.377838412652144,1700
+Step,Train Loss,Validation Loss,Tokens Seen
+4.22719867245571,4.22719867245571,1720
+Step,Train Loss,Validation Loss,Tokens Seen
+4.184927342711268,4.184927342711268,1740
+Step,Train Loss,Validation Loss,Tokens Seen
+4.189026816471203,4.189026816471203,1760
+Step,Train Loss,Validation Loss,Tokens Seen
+4.349365703157477,4.349365703157477,0
+Step,Train Loss,Validation Loss,Tokens Seen
+4.310215716426437,4.310215716426437,20
+Step,Train Loss,Validation Loss,Tokens Seen
+4.208739330639711,4.208739330639711,40
+Step,Train Loss,Validation Loss,Tokens Seen
+4.1709527502188815,4.1709527502188815,60
+Step,Train Loss,Validation Loss,Tokens Seen
+4.275566186453845,4.275566186453845,80
+Step,Train Loss,Validation Loss,Tokens Seen
+4.2078073201952755,4.2078073201952755,100
+Step,Train Loss,Validation Loss,Tokens Seen
+4.230850230197649,4.230850230197649,120
+Step,Train Loss,Validation Loss,Tokens Seen
+4.084753713897757,4.084753713897757,140
+Step,Train Loss,Validation Loss,Tokens Seen
+4.046645458485629,4.046645458485629,160
+Step,Train Loss,Validation Loss,Tokens Seen
+3.9598655708738275,3.9598655708738275,180
+Step,Train Loss,Validation Loss,Tokens Seen
+4.013522407493076,4.013522407493076,200
+Step,Train Loss,Validation Loss,Tokens Seen
+4.021918051951641,4.021918051951641,220
+Step,Train Loss,Validation Loss,Tokens Seen
+3.9588273763656616,3.9588273763656616,240
+Step,Train Loss,Validation Loss,Tokens Seen
+3.9234598254835285,3.9234598254835285,260
+Step,Train Loss,Validation Loss,Tokens Seen
+3.924071621250462,3.924071621250462,280
+Step,Train Loss,Validation Loss,Tokens Seen
+3.8217754903677346,3.8217754903677346,300
+Step,Train Loss,Validation Loss,Tokens Seen
+3.748363452988702,3.748363452988702,320
+Step,Train Loss,Validation Loss,Tokens Seen
+3.8332963614044964,3.8332963614044964,340
+Step,Train Loss,Validation Loss,Tokens Seen
+3.8154051807281135,3.8154051807281135,360
+Step,Train Loss,Validation Loss,Tokens Seen
+3.760178390386942,3.760178390386942,380
+Step,Train Loss,Validation Loss,Tokens Seen
+3.91981974566305,3.91981974566305,400
+Step,Train Loss,Validation Loss,Tokens Seen
+3.894003921666661,3.894003921666661,420
+Step,Train Loss,Validation Loss,Tokens Seen
+3.868532518277297,3.868532518277297,440
+Step,Train Loss,Validation Loss,Tokens Seen
+4.00286094723521,4.00286094723521,460
+Step,Train Loss,Validation Loss,Tokens Seen
+3.8051446507105955,3.8051446507105955,480
+Step,Train Loss,Validation Loss,Tokens Seen
+3.7388456053025014,3.7388456053025014,500
+Step,Train Loss,Validation Loss,Tokens Seen
+3.8307551258319132,3.8307551258319132,520
+Step,Train Loss,Validation Loss,Tokens Seen
+3.7603293802287125,3.7603293802287125,540
+Step,Train Loss,Validation Loss,Tokens Seen
+3.678975712205913,3.678975712205913,560
+Step,Train Loss,Validation Loss,Tokens Seen
+3.62823949150137,3.62823949150137,580
+Step,Train Loss,Validation Loss,Tokens Seen
+3.80743718066731,3.80743718066731,600
+Step,Train Loss,Validation Loss,Tokens Seen
+3.7071392149538607,3.7071392149538607,620
+Step,Train Loss,Validation Loss,Tokens Seen
+3.69389694244475,3.69389694244475,640
+Step,Train Loss,Validation Loss,Tokens Seen
+3.6797078944541313,3.6797078944541313,660
+Step,Train Loss,Validation Loss,Tokens Seen
+3.652394531143678,3.652394531143678,680
+Step,Train Loss,Validation Loss,Tokens Seen
+3.586004740080318,3.586004740080318,700
+Step,Train Loss,Validation Loss,Tokens Seen
+3.484364897415445,3.484364897415445,720
+Step,Train Loss,Validation Loss,Tokens Seen
+3.4975461428229875,3.4975461428229875,740
+Step,Train Loss,Validation Loss,Tokens Seen
+3.4552962916928367,3.4552962916928367,760
+Step,Train Loss,Validation Loss,Tokens Seen
+3.4055614596283115,3.4055614596283115,780
+Step,Train Loss,Validation Loss,Tokens Seen
+3.2917186742698825,3.2917186742698825,800
+Step,Train Loss,Validation Loss,Tokens Seen
+3.3523770739903322,3.3523770739903322,820
+Step,Train Loss,Validation Loss,Tokens Seen
+3.302659748373805,3.302659748373805,840
+Step,Train Loss,Validation Loss,Tokens Seen
+3.3306642508990056,3.3306642508990056,860
+Step,Train Loss,Validation Loss,Tokens Seen
+3.304137086948833,3.304137086948833,880
+Step,Train Loss,Validation Loss,Tokens Seen
+3.091647598791767,3.091647598791767,900
+Step,Train Loss,Validation Loss,Tokens Seen
+3.057425422040192,3.057425422040192,920
+Step,Train Loss,Validation Loss,Tokens Seen
+3.376819512328586,3.376819512328586,940
+Step,Train Loss,Validation Loss,Tokens Seen
+3.0713129990004204,3.0713129990004204,960
+Step,Train Loss,Validation Loss,Tokens Seen
+3.248336419865892,3.248336419865892,980
+Step,Train Loss,Validation Loss,Tokens Seen
+3.3179440200328827,3.3179440200328827,1000
+Step,Train Loss,Validation Loss,Tokens Seen
+3.225572226216664,3.225572226216664,1020
+Step,Train Loss,Validation Loss,Tokens Seen
+3.3292911693051055,3.3292911693051055,1040
+Step,Train Loss,Validation Loss,Tokens Seen
+3.3923546506746396,3.3923546506746396,1060
+Step,Train Loss,Validation Loss,Tokens Seen
+3.2950466146340243,3.2950466146340243,1080
+Step,Train Loss,Validation Loss,Tokens Seen
+3.1545981249293766,3.1545981249293766,1100
+Step,Train Loss,Validation Loss,Tokens Seen
+3.24637218343245,3.24637218343245,1120
+Step,Train Loss,Validation Loss,Tokens Seen
+3.038350897463592,3.038350897463592,1140
+Step,Train Loss,Validation Loss,Tokens Seen
+3.1100760589580276,3.1100760589580276,1160
+Step,Train Loss,Validation Loss,Tokens Seen
+3.0146975682393924,3.0146975682393924,1180
+Step,Train Loss,Validation Loss,Tokens Seen
+3.2085940946598313,3.2085940946598313,1200
+Step,Train Loss,Validation Loss,Tokens Seen
+3.1440754955684818,3.1440754955684818,1220
+Step,Train Loss,Validation Loss,Tokens Seen
+3.090576056693051,3.090576056693051,1240
+Step,Train Loss,Validation Loss,Tokens Seen
+3.1377482228987925,3.1377482228987925,1260
+Step,Train Loss,Validation Loss,Tokens Seen
+3.1672149844266273,3.1672149844266273,1280
+Step,Train Loss,Validation Loss,Tokens Seen
+3.0839152481104875,3.0839152481104875,1300
+Step,Train Loss,Validation Loss,Tokens Seen
+2.7134748294546798,2.7134748294546798,1320
+Step,Train Loss,Validation Loss,Tokens Seen
+2.8309225329273455,2.8309225329273455,1340
+Step,Train Loss,Validation Loss,Tokens Seen
+2.635018741158215,2.635018741158215,1360
+Step,Train Loss,Validation Loss,Tokens Seen
+2.737706871652925,2.737706871652925,1380
+Step,Train Loss,Validation Loss,Tokens Seen
+2.7095113110703393,2.7095113110703393,1400
+Step,Train Loss,Validation Loss,Tokens Seen
+2.866199314997003,2.866199314997003,1420
+Step,Train Loss,Validation Loss,Tokens Seen
+2.5743305809997223,2.5743305809997223,1440
+Step,Train Loss,Validation Loss,Tokens Seen
+2.592293032319159,2.592293032319159,1460
+Step,Train Loss,Validation Loss,Tokens Seen
+2.5944982444917835,2.5944982444917835,1480
+Step,Train Loss,Validation Loss,Tokens Seen
+2.4595667955440446,2.4595667955440446,1500
+Step,Train Loss,Validation Loss,Tokens Seen
+2.4287441026520087,2.4287441026520087,1520
+Step,Train Loss,Validation Loss,Tokens Seen
+2.500986612527757,2.500986612527757,1540
+Step,Train Loss,Validation Loss,Tokens Seen
+2.544383079216287,2.544383079216287,1560
+Step,Train Loss,Validation Loss,Tokens Seen
+2.6005637681967504,2.6005637681967504,1580
+Step,Train Loss,Validation Loss,Tokens Seen
+2.647452440817614,2.647452440817614,1600
+Step,Train Loss,Validation Loss,Tokens Seen
+2.578383133822196,2.578383133822196,1620
+Step,Train Loss,Validation Loss,Tokens Seen
+2.538921455273757,2.538921455273757,1640
+Step,Train Loss,Validation Loss,Tokens Seen
+2.6174973557527,2.6174973557527,1660
+Step,Train Loss,Validation Loss,Tokens Seen
+2.4272597673776986,2.4272597673776986,1680
+Step,Train Loss,Validation Loss,Tokens Seen
+2.502905168847458,2.502905168847458,1700
+Step,Train Loss,Validation Loss,Tokens Seen
+2.548094522711393,2.548094522711393,1720
+Step,Train Loss,Validation Loss,Tokens Seen
+2.3271231542567947,2.3271231542567947,1740
+Step,Train Loss,Validation Loss,Tokens Seen
+2.4279336913211926,2.4279336913211926,1760
+Step,Train Loss,Validation Loss,Tokens Seen
+2.3117300167277053,2.3117300167277053,0
+Step,Train Loss,Validation Loss,Tokens Seen
+2.6185775439481476,2.6185775439481476,20
+Step,Train Loss,Validation Loss,Tokens Seen
+2.4927329731148644,2.4927329731148644,40
+Step,Train Loss,Validation Loss,Tokens Seen
+2.38670677288964,2.38670677288964,60
+Step,Train Loss,Validation Loss,Tokens Seen
+2.5293448674114973,2.5293448674114973,80
+Step,Train Loss,Validation Loss,Tokens Seen
+2.4700910644354046,2.4700910644354046,100
+Step,Train Loss,Validation Loss,Tokens Seen
+2.602674895444432,2.602674895444432,120
+Step,Train Loss,Validation Loss,Tokens Seen
+2.165820374279409,2.165820374279409,140
+Step,Train Loss,Validation Loss,Tokens Seen
+2.3225932270288467,2.3225932270288467,160
+Step,Train Loss,Validation Loss,Tokens Seen
+2.1466033313725448,2.1466033313725448,180
+Step,Train Loss,Validation Loss,Tokens Seen
+2.080752581559323,2.080752581559323,200
+Step,Train Loss,Validation Loss,Tokens Seen
+2.154813622099322,2.154813622099322,220
+Step,Train Loss,Validation Loss,Tokens Seen
+2.137758259233591,2.137758259233591,240
+Step,Train Loss,Validation Loss,Tokens Seen
+2.121607000360618,2.121607000360618,260
+Step,Train Loss,Validation Loss,Tokens Seen
+2.0754297119942873,2.0754297119942873,280
+Step,Train Loss,Validation Loss,Tokens Seen
+2.106429122186996,2.106429122186996,300
+Step,Train Loss,Validation Loss,Tokens Seen
+1.9298929098892856,1.9298929098892856,320
+Step,Train Loss,Validation Loss,Tokens Seen
+1.82424594180004,1.82424594180004,340
+Step,Train Loss,Validation Loss,Tokens Seen
+1.9393150552704528,1.9393150552704528,360
+Step,Train Loss,Validation Loss,Tokens Seen
+1.9643848758895655,1.9643848758895655,380
+Step,Train Loss,Validation Loss,Tokens Seen
+1.9888386751550275,1.9888386751550275,400
+Step,Train Loss,Validation Loss,Tokens Seen
+2.070043692314947,2.070043692314947,420
+Step,Train Loss,Validation Loss,Tokens Seen
+1.9853234231673382,1.9853234231673382,440
+Step,Train Loss,Validation Loss,Tokens Seen
+2.0005815067404025,2.0005815067404025,460
+Step,Train Loss,Validation Loss,Tokens Seen
+2.0635661044837654,2.0635661044837654,480
+Step,Train Loss,Validation Loss,Tokens Seen
+1.8185395419194892,1.8185395419194892,500
+Step,Train Loss,Validation Loss,Tokens Seen
+1.943075019262127,1.943075019262127,520
+Step,Train Loss,Validation Loss,Tokens Seen
+2.0588373525722607,2.0588373525722607,540
+Step,Train Loss,Validation Loss,Tokens Seen
+1.7845497671011332,1.7845497671011332,560
+Step,Train Loss,Validation Loss,Tokens Seen
+1.848632891838615,1.848632891838615,580
+Step,Train Loss,Validation Loss,Tokens Seen
+1.8230931041007106,1.8230931041007106,600
+Step,Train Loss,Validation Loss,Tokens Seen
+1.8259433894544035,1.8259433894544035,0
+Step,Train Loss,Validation Loss,Tokens Seen
+1.908441660069936,1.908441660069936,20
+Step,Train Loss,Validation Loss,Tokens Seen
+2.0772575388687686,2.0772575388687686,40
+Step,Train Loss,Validation Loss,Tokens Seen
+1.8870216189204037,1.8870216189204037,60
+Step,Train Loss,Validation Loss,Tokens Seen
+2.061503247534101,2.061503247534101,80
+Step,Train Loss,Validation Loss,Tokens Seen
+1.9887670749748074,1.9887670749748074,100
+Step,Train Loss,Validation Loss,Tokens Seen
+1.969843916192248,1.969843916192248,120
+Step,Train Loss,Validation Loss,Tokens Seen
+1.6552576449875895,1.6552576449875895,140
+Step,Train Loss,Validation Loss,Tokens Seen
+1.8163367923651192,1.8163367923651192,160
+Step,Train Loss,Validation Loss,Tokens Seen
+1.663486867841031,1.663486867841031,180
+Step,Train Loss,Validation Loss,Tokens Seen
+1.671118696698466,1.671118696698466,200
+Step,Train Loss,Validation Loss,Tokens Seen
+1.7205659865930274,1.7205659865930274,220
+Step,Train Loss,Validation Loss,Tokens Seen
+1.470601324394748,1.470601324394748,240
+Step,Train Loss,Validation Loss,Tokens Seen
+1.6470535206230912,1.6470535206230912,260
+Step,Train Loss,Validation Loss,Tokens Seen
+1.6504727899524811,1.6504727899524811,280
+Step,Train Loss,Validation Loss,Tokens Seen
+1.7443964557873237,1.7443964557873237,300
+Step,Train Loss,Validation Loss,Tokens Seen
+1.4300767409841757,1.4300767409841757,320
+Step,Train Loss,Validation Loss,Tokens Seen
+1.4953526164329536,1.4953526164329536,340
+Step,Train Loss,Validation Loss,Tokens Seen
+1.546088917734655,1.546088917734655,360
+Step,Train Loss,Validation Loss,Tokens Seen
+1.5619256746124577,1.5619256746124577,380
+Step,Train Loss,Validation Loss,Tokens Seen
+1.4976033061440732,1.4976033061440732,400
+Step,Train Loss,Validation Loss,Tokens Seen
+1.8019119582164127,1.8019119582164127,420
+Step,Train Loss,Validation Loss,Tokens Seen
+1.822845274632847,1.822845274632847,440
+Step,Train Loss,Validation Loss,Tokens Seen
+1.6790640919997886,1.6790640919997886,460
+Step,Train Loss,Validation Loss,Tokens Seen
+1.6668989724806837,1.6668989724806837,480
+Step,Train Loss,Validation Loss,Tokens Seen
+1.6530447146175682,1.6530447146175682,500
+Step,Train Loss,Validation Loss,Tokens Seen
+1.7120525945682783,1.7120525945682783,520
+Step,Train Loss,Validation Loss,Tokens Seen
+1.6497441931954913,1.6497441931954913,540
+Step,Train Loss,Validation Loss,Tokens Seen
+1.542392599723629,1.542392599723629,560
+Step,Train Loss,Validation Loss,Tokens Seen
+1.6181788460628406,1.6181788460628406,580
+Step,Train Loss,Validation Loss,Tokens Seen
+1.5227370609755855,1.5227370609755855,0
+Step,Train Loss,Validation Loss,Tokens Seen
+1.6978301372429407,1.6978301372429407,20
+Step,Train Loss,Validation Loss,Tokens Seen
+1.714778131025063,1.714778131025063,40
+Step,Train Loss,Validation Loss,Tokens Seen
+1.5622487281121917,1.5622487281121917,60
+Step,Train Loss,Validation Loss,Tokens Seen
+1.676932952039548,1.676932952039548,80
+Step,Train Loss,Validation Loss,Tokens Seen
+1.563836773907816,1.563836773907816,100
+Step,Train Loss,Validation Loss,Tokens Seen
+1.5037964808477744,1.5037964808477744,120
+Step,Train Loss,Validation Loss,Tokens Seen
+1.510594341249482,1.510594341249482,140
+Step,Train Loss,Validation Loss,Tokens Seen
+1.532577422825066,1.532577422825066,160
+Step,Train Loss,Validation Loss,Tokens Seen
+1.5918156476943075,1.5918156476943075,180
+Step,Train Loss,Validation Loss,Tokens Seen
+1.579698961026765,1.579698961026765,200
+Step,Train Loss,Validation Loss,Tokens Seen
+1.329538542928325,1.329538542928325,220
+Step,Train Loss,Validation Loss,Tokens Seen
+1.2564193063692466,1.2564193063692466,240
+Step,Train Loss,Validation Loss,Tokens Seen
+1.511170000139926,1.511170000139926,260
+Step,Train Loss,Validation Loss,Tokens Seen
+1.4352530540294341,1.4352530540294341,280
+Step,Train Loss,Validation Loss,Tokens Seen
+1.3229120332697355,1.3229120332697355,300
+Step,Train Loss,Validation Loss,Tokens Seen
+1.2702356053365242,1.2702356053365242,320
+Step,Train Loss,Validation Loss,Tokens Seen
+1.2172990854376473,1.2172990854376473,340
+Step,Train Loss,Validation Loss,Tokens Seen
+1.3614684503424812,1.3614684503424812,360
+Step,Train Loss,Validation Loss,Tokens Seen
+1.368150752818061,1.368150752818061,380
+Step,Train Loss,Validation Loss,Tokens Seen
+1.3026281544384923,1.3026281544384923,400
+Step,Train Loss,Validation Loss,Tokens Seen
+1.4105699454509728,1.4105699454509728,420
+Step,Train Loss,Validation Loss,Tokens Seen
+1.410722431248507,1.410722431248507,440
+Step,Train Loss,Validation Loss,Tokens Seen
+1.5451413972454298,1.5451413972454298,460
+Step,Train Loss,Validation Loss,Tokens Seen
+1.4597445288924753,1.4597445288924753,480
+Step,Train Loss,Validation Loss,Tokens Seen
+1.3658628471296381,1.3658628471296381,500
+Step,Train Loss,Validation Loss,Tokens Seen
+1.1554605075837792,1.1554605075837792,520
+Step,Train Loss,Validation Loss,Tokens Seen
+1.3308327769910968,1.3308327769910968,540
+Step,Train Loss,Validation Loss,Tokens Seen
+1.3757729582689904,1.3757729582689904,560
+Step,Train Loss,Validation Loss,Tokens Seen
+1.258309710015719,1.258309710015719,580
+Step,Train Loss,Validation Loss,Tokens Seen
+1.4115014451782446,1.4115014451782446,0
+Step,Train Loss,Validation Loss,Tokens Seen
+1.631010027350606,1.631010027350606,40
+Step,Train Loss,Validation Loss,Tokens Seen
+1.4473432022574786,1.4473432022574786,80
+Step,Train Loss,Validation Loss,Tokens Seen
+1.4025419980690286,1.4025419980690286,120
+Step,Train Loss,Validation Loss,Tokens Seen
+1.3398082301624723,1.3398082301624723,160
+Step,Train Loss,Validation Loss,Tokens Seen
+1.329912943111078,1.329912943111078,200
+Step,Train Loss,Validation Loss,Tokens Seen
+1.1327618991805088,1.1327618991805088,240
+Step,Train Loss,Validation Loss,Tokens Seen
+1.2201563199931704,1.2201563199931704,280
+Step,Train Loss,Validation Loss,Tokens Seen
+1.0818793601482302,1.0818793601482302,320
+Step,Train Loss,Validation Loss,Tokens Seen
+1.087209568937888,1.087209568937888,360
+Step,Train Loss,Validation Loss,Tokens Seen
+1.1183872624124225,1.1183872624124225,400
+Step,Train Loss,Validation Loss,Tokens Seen
+1.1495105963502381,1.1495105963502381,440
+Step,Train Loss,Validation Loss,Tokens Seen
+1.1588408573455102,1.1588408573455102,480
+Step,Train Loss,Validation Loss,Tokens Seen
+0.9204106134538715,0.9204106134538715,520
+Step,Train Loss,Validation Loss,Tokens Seen
+1.0536684739227231,1.0536684739227231,560
+Step,Train Loss,Validation Loss,Tokens Seen
+1.2130827616799522,1.2130827616799522,600
+Step,Train Loss,Validation Loss,Tokens Seen
+1.2731478904952873,1.2731478904952873,640
+Step,Train Loss,Validation Loss,Tokens Seen
+1.1225050313247216,1.1225050313247216,680
+Step,Train Loss,Validation Loss,Tokens Seen
+0.9913417443733763,0.9913417443733763,720
+Step,Train Loss,Validation Loss,Tokens Seen
+0.9043964762240648,0.9043964762240648,760
+Step,Train Loss,Validation Loss,Tokens Seen
+0.9501972993886149,0.9501972993886149,800
+Step,Train Loss,Validation Loss,Tokens Seen
+0.7849016135206094,0.7849016135206094,840
+Step,Train Loss,Validation Loss,Tokens Seen
+0.701131731020035,0.701131731020035,880
+Step,Train Loss,Validation Loss,Tokens Seen
+0.6365131493909536,0.6365131493909536,920
+Step,Train Loss,Validation Loss,Tokens Seen
+0.6779164361289224,0.6779164361289224,960
+Step,Train Loss,Validation Loss,Tokens Seen
+0.8127760658342693,0.8127760658342693,1000
+Step,Train Loss,Validation Loss,Tokens Seen
+0.8280946990928134,0.8280946990928134,1040
+Step,Train Loss,Validation Loss,Tokens Seen
+0.7821349786040751,0.7821349786040751,1080
+Step,Train Loss,Validation Loss,Tokens Seen
+0.665547577060155,0.665547577060155,1120
+Step,Train Loss,Validation Loss,Tokens Seen
+0.8617588357647529,0.8617588357647529,1160
+Step,Train Loss,Validation Loss,Tokens Seen
+0.8450056072324514,0.8450056072324514,1200
+Step,Train Loss,Validation Loss,Tokens Seen
+0.8002167676600653,0.8002167676600653,1240
+Step,Train Loss,Validation Loss,Tokens Seen
+0.7827924367141079,0.7827924367141079,1280
+Step,Train Loss,Validation Loss,Tokens Seen
+0.6953357127369255,0.6953357127369255,1320
+Step,Train Loss,Validation Loss,Tokens Seen
+0.6198822205282144,0.6198822205282144,1360
+Step,Train Loss,Validation Loss,Tokens Seen
+0.6350428765337612,0.6350428765337612,1400
+Step,Train Loss,Validation Loss,Tokens Seen
+0.5754066274023136,0.5754066274023136,1440
+Step,Train Loss,Validation Loss,Tokens Seen
+0.4642779533877163,0.4642779533877163,1480
+Step,Train Loss,Validation Loss,Tokens Seen
+0.5146096368269945,0.5146096368269945,1520
+Step,Train Loss,Validation Loss,Tokens Seen
+0.4915054422501173,0.4915054422501173,1560
+Step,Train Loss,Validation Loss,Tokens Seen
+0.5161181536528308,0.5161181536528308,1600
+Step,Train Loss,Validation Loss,Tokens Seen
+0.9350320230162626,0.9350320230162626,0
+Step,Train Loss,Validation Loss,Tokens Seen
+0.8279786739699744,0.8279786739699744,40
+Step,Train Loss,Validation Loss,Tokens Seen
+0.7092781136366161,0.7092781136366161,80
+Step,Train Loss,Validation Loss,Tokens Seen
+0.9521392853175467,0.9521392853175467,120
+Step,Train Loss,Validation Loss,Tokens Seen
+0.6853156105136952,0.6853156105136952,160
+Step,Train Loss,Validation Loss,Tokens Seen
+0.9048762266851358,0.9048762266851358,200
+Step,Train Loss,Validation Loss,Tokens Seen
+0.6297567956955046,0.6297567956955046,240
+Step,Train Loss,Validation Loss,Tokens Seen
+0.7226926563559352,0.7226926563559352,280
+Step,Train Loss,Validation Loss,Tokens Seen
+0.7684390955176708,0.7684390955176708,320
+Step,Train Loss,Validation Loss,Tokens Seen
+0.6011048014955344,0.6011048014955344,360
+Step,Train Loss,Validation Loss,Tokens Seen
+0.6980993321064759,0.6980993321064759,400
+Step,Train Loss,Validation Loss,Tokens Seen
+0.8196852424660245,0.8196852424660245,440
+Step,Train Loss,Validation Loss,Tokens Seen
+0.8505668048872739,0.8505668048872739,480
+Step,Train Loss,Validation Loss,Tokens Seen
+0.7644575328339596,0.7644575328339596,520
+Step,Train Loss,Validation Loss,Tokens Seen
+0.8421125986386795,0.8421125986386795,560
+Step,Train Loss,Validation Loss,Tokens Seen
+0.9505792283830611,0.9505792283830611,600
+Step,Train Loss,Validation Loss,Tokens Seen
+0.8516477159148937,0.8516477159148937,640
+Step,Train Loss,Validation Loss,Tokens Seen
+0.6848229054059531,0.6848229054059531,680
+Step,Train Loss,Validation Loss,Tokens Seen
+0.8833955593809888,0.8833955593809888,720
+Step,Train Loss,Validation Loss,Tokens Seen
+0.6897374889687509,0.6897374889687509,760
+Step,Train Loss,Validation Loss,Tokens Seen
+0.8041464556260286,0.8041464556260286,800
+Step,Train Loss,Validation Loss,Tokens Seen
+0.5125330282576583,0.5125330282576583,840
+Step,Train Loss,Validation Loss,Tokens Seen
+0.6577272070823489,0.6577272070823489,880
+Step,Train Loss,Validation Loss,Tokens Seen
+0.5900285858912645,0.5900285858912645,920
+Step,Train Loss,Validation Loss,Tokens Seen
+0.47338120454318217,0.47338120454318217,960
+Step,Train Loss,Validation Loss,Tokens Seen
+0.6072470447602304,0.6072470447602304,1000
+Step,Train Loss,Validation Loss,Tokens Seen
+0.6818468211520765,0.6818468211520765,1040
+Step,Train Loss,Validation Loss,Tokens Seen
+0.5101419347715942,0.5101419347715942,1080
+Step,Train Loss,Validation Loss,Tokens Seen
+0.558293124988071,0.558293124988071,1120
+Step,Train Loss,Validation Loss,Tokens Seen
+0.6213145499193186,0.6213145499193186,1160
+Step,Train Loss,Validation Loss,Tokens Seen
+0.658203107531409,0.658203107531409,1200
+Step,Train Loss,Validation Loss,Tokens Seen
+0.562969851508938,0.562969851508938,1240
+Step,Train Loss,Validation Loss,Tokens Seen
+0.7171485896499173,0.7171485896499173,1280
+Step,Train Loss,Validation Loss,Tokens Seen
+0.5859370145669861,0.5859370145669861,1320
+Step,Train Loss,Validation Loss,Tokens Seen
+0.6282320216524642,0.6282320216524642,1360
+Step,Train Loss,Validation Loss,Tokens Seen
+0.4705661445025455,0.4705661445025455,1400
+Step,Train Loss,Validation Loss,Tokens Seen
+0.40185292919694976,0.40185292919694976,1440
+Step,Train Loss,Validation Loss,Tokens Seen
+0.6329032767161324,0.6329032767161324,1480
+Step,Train Loss,Validation Loss,Tokens Seen
+0.3612754681474856,0.3612754681474856,1520
+Step,Train Loss,Validation Loss,Tokens Seen
+0.5276034883210888,0.5276034883210888,1560
+Step,Train Loss,Validation Loss,Tokens Seen
+0.4721375928587607,0.4721375928587607,1600
+Step,Train Loss,Validation Loss,Tokens Seen
+0.45441280090174563,0.45441280090174563,1640
+Step,Train Loss,Validation Loss,Tokens Seen
+0.44438209451382626,0.44438209451382626,1680
+Step,Train Loss,Validation Loss,Tokens Seen
+0.5248714267351741,0.5248714267351741,1720
+Step,Train Loss,Validation Loss,Tokens Seen
+0.4732927750494029,0.4732927750494029,1760
+Step,Train Loss,Validation Loss,Tokens Seen
+0.5699325106735971,0.5699325106735971,1800
+Step,Train Loss,Validation Loss,Tokens Seen
+0.38943022995482424,0.38943022995482424,1840
+Step,Train Loss,Validation Loss,Tokens Seen
+0.5174419607816113,0.5174419607816113,1880
+Step,Train Loss,Validation Loss,Tokens Seen
+0.4705585178075912,0.4705585178075912,1920
+Step,Train Loss,Validation Loss,Tokens Seen
+0.4456023463689898,0.4456023463689898,1960
+Step,Train Loss,Validation Loss,Tokens Seen
+0.46946632183735837,0.46946632183735837,2000
+Step,Train Loss,Validation Loss,Tokens Seen
+0.3063412683801977,0.3063412683801977,2040
+Step,Train Loss,Validation Loss,Tokens Seen
+0.47706173815940683,0.47706173815940683,2080
+Step,Train Loss,Validation Loss,Tokens Seen
+0.23574529963897894,0.23574529963897894,2120
+Step,Train Loss,Validation Loss,Tokens Seen
+0.4160635589332496,0.4160635589332496,2160
+Step,Train Loss,Validation Loss,Tokens Seen
+0.3784760489329897,0.3784760489329897,2200
+Step,Train Loss,Validation Loss,Tokens Seen
+0.38993128080147543,0.38993128080147543,2240
+Step,Train Loss,Validation Loss,Tokens Seen
+0.33303100672374303,0.33303100672374303,2280
+Step,Train Loss,Validation Loss,Tokens Seen
+0.4194976023675219,0.4194976023675219,2320
+Step,Train Loss,Validation Loss,Tokens Seen
+0.35536773938282923,0.35536773938282923,2360
+Step,Train Loss,Validation Loss,Tokens Seen
+0.5125234724727232,0.5125234724727232,2400
+Step,Train Loss,Validation Loss,Tokens Seen
+0.24605383732784036,0.24605383732784036,2440
+Step,Train Loss,Validation Loss,Tokens Seen
+0.5768898103663044,0.5768898103663044,2480
+Step,Train Loss,Validation Loss,Tokens Seen
+0.32762935315888075,0.32762935315888075,2520
+Step,Train Loss,Validation Loss,Tokens Seen
+0.3086556487502782,0.3086556487502782,2560
+Step,Train Loss,Validation Loss,Tokens Seen
+0.3541841942414239,0.3541841942414239,2600
+Step,Train Loss,Validation Loss,Tokens Seen
+0.23963654574283674,0.23963654574283674,2640
+Step,Train Loss,Validation Loss,Tokens Seen
+0.3926545861428855,0.3926545861428855,2680
+Step,Train Loss,Validation Loss,Tokens Seen
+0.24099348926589498,0.24099348926589498,2720
+Step,Train Loss,Validation Loss,Tokens Seen
+0.3464193257213746,0.3464193257213746,2760
+Step,Train Loss,Validation Loss,Tokens Seen
+0.3757444894180407,0.3757444894180407,2800
+Step,Train Loss,Validation Loss,Tokens Seen
+0.3017337461870566,0.3017337461870566,2840
+Step,Train Loss,Validation Loss,Tokens Seen
+0.3790633592603577,0.3790633592603577,2880
+Step,Train Loss,Validation Loss,Tokens Seen
+0.4385519933169456,0.4385519933169456,2920
+Step,Train Loss,Validation Loss,Tokens Seen
+0.3320704407776026,0.3320704407776026,2960
+Step,Train Loss,Validation Loss,Tokens Seen
+0.5156910657832349,0.5156910657832349,3000
+Step,Train Loss,Validation Loss,Tokens Seen
+0.2907300338753172,0.2907300338753172,3040
+Step,Train Loss,Validation Loss,Tokens Seen
+0.5750318171670409,0.5750318171670409,3080
+Step,Train Loss,Validation Loss,Tokens Seen
+0.23175057198701277,0.23175057198701277,3120
+Step,Train Loss,Validation Loss,Tokens Seen
+0.4511314051326465,0.4511314051326465,3160
+Step,Train Loss,Validation Loss,Tokens Seen
+0.2978945229315778,0.2978945229315778,3200
+Step,Train Loss,Validation Loss,Tokens Seen
+0.21111056259581568,0.21111056259581568,3240
+Step,Train Loss,Validation Loss,Tokens Seen
+0.24504944583954844,0.24504944583954844,3280
+Step,Train Loss,Validation Loss,Tokens Seen
+0.20932968710297467,0.20932968710297467,3320
+Step,Train Loss,Validation Loss,Tokens Seen
+0.2878831285712737,0.2878831285712737,3360
+Step,Train Loss,Validation Loss,Tokens Seen
+0.3407205866297355,0.3407205866297355,3400
+Step,Train Loss,Validation Loss,Tokens Seen
+0.2880012497331041,0.2880012497331041,3440
+Step,Train Loss,Validation Loss,Tokens Seen
+0.3099140039569623,0.3099140039569623,3480
+Step,Train Loss,Validation Loss,Tokens Seen
+0.28264003839796864,0.28264003839796864,3520
+Step,Train Loss,Validation Loss,Tokens Seen
+0.306763864890043,0.306763864890043,3560
+Step,Train Loss,Validation Loss,Tokens Seen
+0.3336771685485351,0.3336771685485351,3600
+Step,Train Loss,Validation Loss,Tokens Seen
+0.263458477446457,0.263458477446457,3640
+Step,Train Loss,Validation Loss,Tokens Seen
+0.4378670360767157,0.4378670360767157,3680
+Step,Train Loss,Validation Loss,Tokens Seen
+0.20944810803425876,0.20944810803425876,3720
+Step,Train Loss,Validation Loss,Tokens Seen
+0.3678524401510839,0.3678524401510839,3760
+Step,Train Loss,Validation Loss,Tokens Seen
+0.2690046459209879,0.2690046459209879,3800
+Step,Train Loss,Validation Loss,Tokens Seen
+0.1828254759248749,0.1828254759248749,3840
+Step,Train Loss,Validation Loss,Tokens Seen
+0.26405845121228816,0.26405845121228816,3880
+Step,Train Loss,Validation Loss,Tokens Seen
+0.1659111023528149,0.1659111023528149,3920
+Step,Train Loss,Validation Loss,Tokens Seen
+4.9324036251274075,4.9324036251274075,0
+Step,Train Loss,Validation Loss,Tokens Seen
+5.305332796449893,5.305332796449893,40
+Step,Train Loss,Validation Loss,Tokens Seen
+4.949218152367537,4.949218152367537,80
+Step,Train Loss,Validation Loss,Tokens Seen
+4.673859220920223,4.673859220920223,120
+Step,Train Loss,Validation Loss,Tokens Seen
+4.3531061443361905,4.3531061443361905,160
+Step,Train Loss,Validation Loss,Tokens Seen
+4.133948626494644,4.133948626494644,200
+Step,Train Loss,Validation Loss,Tokens Seen
+3.9250139753417215,3.9250139753417215,240
+Step,Train Loss,Validation Loss,Tokens Seen
+3.8549973309630214,3.8549973309630214,280
+Step,Train Loss,Validation Loss,Tokens Seen
+3.8106098623559026,3.8106098623559026,320
+Step,Train Loss,Validation Loss,Tokens Seen
+3.6010097539660952,3.6010097539660952,360
+Step,Train Loss,Validation Loss,Tokens Seen
+3.5867324669172267,3.5867324669172267,400
+Step,Train Loss,Validation Loss,Tokens Seen
+3.473957811104189,3.473957811104189,440
+Step,Train Loss,Validation Loss,Tokens Seen
+3.647609690554661,3.647609690554661,480
+Step,Train Loss,Validation Loss,Tokens Seen
+3.4518355795062416,3.4518355795062416,520
+Step,Train Loss,Validation Loss,Tokens Seen
+3.4678297635204722,3.4678297635204722,560
+Step,Train Loss,Validation Loss,Tokens Seen
+3.875241273700601,3.875241273700601,600
+Step,Train Loss,Validation Loss,Tokens Seen
+4.681310434152584,4.681310434152584,640
+Step,Train Loss,Validation Loss,Tokens Seen
+4.510961662424673,4.510961662424673,680
+Step,Train Loss,Validation Loss,Tokens Seen
+4.5664409068551395,4.5664409068551395,720
+Step,Train Loss,Validation Loss,Tokens Seen
+4.513831577678718,4.513831577678718,760

@@ -25,9 +25,10 @@ class Transformer(nn.Module):
 
             super().__init__()
 
-            layer_normalisation_1 = LayerNormalisation(embedding_dimension)
-            layer_normalisation_2 = LayerNormalisation(embedding_dimension)
-            self.layer_normalisation = [layer_normalisation_1, layer_normalisation_2]
+            device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+            layer_normalisation_1 = LayerNormalisation(embedding_dimension).to(device)
+            layer_normalisation_2 = LayerNormalisation(embedding_dimension).to(device)
+            self.layer_normalisation = nn.ModuleList([layer_normalisation_1, layer_normalisation_2])
 
             self_attention_mechanism = MultiHeadAttention(input_dimension=embedding_dimension,
                                                                output_dimension=embedding_dimension,
@@ -35,13 +36,13 @@ class Transformer(nn.Module):
                                                                heads_count=heads_count,
                                                                bias_flag=bias_flag,
                                                                dropout_rate=dropout_rate[0] if isinstance(dropout_rate, tuple) else dropout_rate)
-            
-            feedforward_network = FeedForwardNetwork(embedding_dimension=embedding_dimension)
-            self.networks = [self_attention_mechanism, feedforward_network]
+            self_attention_mechanism.to(device)
+            feedforward_network = FeedForwardNetwork(embedding_dimension=embedding_dimension).to(device)
+            self.networks = nn.ModuleList([self_attention_mechanism, feedforward_network])
 
             dropout_1 = nn.Dropout(dropout_rate[1] if isinstance(dropout_rate, tuple) else dropout_rate)    
             dropout_2 = nn.Dropout(dropout_rate[1] if isinstance(dropout_rate, tuple) else dropout_rate)
-            self.dropout = [dropout_1, dropout_2]
+            self.dropout = nn.ModuleList([dropout_1, dropout_2])
 
 
     def forward(self, input_tensor: torch.Tensor) -> torch.Tensor:
